@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Sedan+SC);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+body {
+    background: linear-gradient(to bottom,#ff0000 0%, #000000 100%);
+}
+h1 {
+    color: #ffffff;
+	text-align: center;
+    border-color: #ededed;
+    font-size: 100px;
+}
+table, th, td {
+    border: 1px solid #ededed;
+    color: #ffffff;
+    font-size: 50px;
+    vertical-align: top;
+  }
+div{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 45px;
+    color: #ffffff;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+    width: 350px;
+    text-decoration: underline;
+}
+p {
+    color: #ffffff;
+    line-height: 1.2;
+}
+s {
+    text-decoration: none;
+    width: 250px;
+    margin-right: 23px;
+}
+g {
+    display: inline-block;
+    vertical-align: bottom;
+    font-size: 45px;
+    color: #ffffff;
+}
+divt { 
+    font-size: 45px;
+    color: #ffffff;
+    padding: 0 0 0 0;
+    display: inline;
+}
+k {
+    font-family: "Pacifico";
+    width: 350px;
+    font-size: 45px;
+}
+h3 {
+    color:#ffffff;
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+kr {
+    width: 350px;
+    font-family: "Lobster";
+    font-size: 45px;
+}
+diva{
+    display: block;
+    color: #ffffff;
+    width: 600px;
+    text-align: center;
+}
+divx{
+    display: inline-block;
+    color: #ffffff;
+    width: 600px;
+    vertical-align: middle;
+    font-size: 30px;
+    padding-bottom: 180px;
+}
